@@ -1,4 +1,4 @@
-# Project Description
+# 150-50-Investment-Strategies
 
 This repository contains Jupyter Notebook files for two projects:
 
