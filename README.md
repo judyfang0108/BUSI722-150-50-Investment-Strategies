@@ -34,5 +34,5 @@ The Fama-French alpha of the strategy is 0.00385, further confirming its capabil
 ### Conclusion
 Overall, the Momentum-Based 150/50 Strategy demonstrates strong performance across various metrics, outperforming market benchmarks and generating excess returns. This sample provides insights into the strategy's effectiveness and its potential utility for investors.
 
-For the complete analysis and additional details, refer to the full Jupyter Notebook available in the repository.
+For the complete analysis and additional details, refer to the full Jupyter Notebook or the report pdf available in the repository.
 
